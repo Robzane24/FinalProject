@@ -1,0 +1,31 @@
+﻿@using FinalProject.Models
+@model HockeyTeam
+
+<h2>Create a New HockeyTeam</h2>
+
+@using (Html.BeginForm("InsertHockeyTeamToDatabase", "HockeyTeam", "Post"))
+{
+        <input asp-for="TeamID" type="hidden" value="" />
+
+        <label asp-for="TeamName" class="control-label">Name</label>
+        <input type="text" name="TeamName" class="form-control" value="" />
+
+        <label asp-for="InceptionYear" class="control-label">InceptionYear</label>
+        <input type="number" step="1" name="InceptionYear" class="form-control" />
+
+        <label asp-for="Championships" class="control-label">Championships</label>
+        <input type="number" step="1" name="Championships" class="form-control" />
+
+        <div class="form-group">
+            <label for="">Select a Category</label>
+            <select class="form-control" name="TeamID" value="">
+            
+        </select>
+       </div>
+
+        <input type="submit" value="Create HockeyTeam" class="btn btn-primary" />
+
+
+
+
+}

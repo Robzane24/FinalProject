@@ -1,0 +1,32 @@
+﻿@using FinalProject.Models
+@model IEnumerable<HockeyTeam>
+
+<h2>Teams</h2>
+<table class="table">
+    <tr>
+        <th>TeamID</th>
+        <th>TeamName</th>
+        @*<th>InceptionYear</th>
+        <th>Championships</th>*@
+        @*<th>TeamFact</th>*@
+        @*<th>TeamImage</th>*@
+    </tr>
+
+    @foreach (var teams in @Model)
+    {
+        <tr>
+            <td><a href=/HockeyTeams/ViewHockeyTeam/?teamID=@teams.TeamID>@teams.TeamID</a></td>
+            <td>@teams.TeamName</td>
+           @* <td>@teams.InceptionYear</td>
+            <td>@teams.Championships</td>*@
+            
+           @* <td>@teams.TeamFact</td>*@
+            @*<td>@teams.TeamImage</td>*@
+        </tr>
+    }
+
+</table>
+
+<div style="display: block">
+    <a href="/HockeyTeams/InsertHockeyTeam/">Create a New HockeyTeam</a>
+</div>

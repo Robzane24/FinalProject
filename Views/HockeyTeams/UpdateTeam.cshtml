@@ -1,0 +1,18 @@
+﻿@using FinalProject.Models
+@model HockeyTeam
+
+<h2>Update @Model.TeamName</h2>
+
+@using (Html.BeginForm("UpdateHockeyTeamToDatabase", "HockeyTeam", "Post"))
+{
+        <input asp-for="TeamID" type="hidden" value="@Model.TeamID" />
+
+        <label asp-for="TeamName" class="control-label">TeamName</label>
+        <input type="text" name="TeamName" class="form-control" value="@Model.TeamName" />
+
+        <label asp-for="InceptionYear" class="control-label">InceptionYear</label>    
+        <input type="number" step="0.01" name="InceptionYear" class="form-control" value="@Model.InceptionYear" />
+        <label asp-for="Championships" class="control-label">Championships</label>
+        <input type="number" step="0.01" name="Championships" class="form-control" value="@Model.Championships" />
+        <input type="submit" value="Update HockeyTeam" class="btn btn-primary" />
+}
