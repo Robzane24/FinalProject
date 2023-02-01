@@ -1,375 +1,375 @@
 {
   "Files": [
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css",
       "PackagePath": "staticwebassets\\FinalProject.bundle.scp.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\css\\site.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\favicon.ico",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Al the Octopus.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Al the Octopus.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Al the Octopus.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Bailey.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Bailey.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Bailey.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Bernie the St. Bernard.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Bernie the St. Bernard.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Bernie the St. Bernard.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Blades the Bruin.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Blades the Bruin.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Blades the Bruin.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Buoy the Troll.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Buoy the Troll.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Buoy the Troll.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Carlton the Bear.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Carlton the Bear.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Carlton the Bear.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Chance.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Chance.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Chance.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Fin the Whale.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Fin the Whale.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Fin the Whale.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Gnash.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Gnash.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Gnash.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Gritty.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Gritty.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Gritty.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Harvey the Hound.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Harvey the Hound.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Harvey the Hound.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Howler the Coyote.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Howler the Coyote.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Howler the Coyote.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Hunter the Lynx.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Hunter the Lynx.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Hunter the Lynx.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Iceburgh.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Iceburgh.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Iceburgh.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Louie.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Louie.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Louie.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Mick E. Moose.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Mick E. Moose.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Mick E. Moose.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\N.J Devil.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\N.J Devil.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\N.J Devil.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Nordy.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Nordy.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Nordy.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\SJ Sharkie.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\SJ Sharkie.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\SJ Sharkie.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Sabretooth.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Sabretooth.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Sabretooth.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Slapshot.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Slapshot.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Slapshot.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Sparky the Dragon.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Sparky the Dragon.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Sparky the Dragon.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Spartacat.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Spartacat.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Spartacat.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Stanley C. Panther.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Stanley C. Panther.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Stanley C. Panther.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Stinger.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Stinger.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Stinger.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Stormy.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Stormy.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Stormy.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\ThunderBug.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\ThunderBug.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\ThunderBug.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Tommy Hawk.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Tommy Hawk.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Tommy Hawk.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Victor E. Green.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Victor E. Green.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Victor E. Green.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Wildwing.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Wildwing.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Wildwing.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Wildwing.png",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Wildwing.png",
       "PackagePath": "staticwebassets\\images\\Mascots\\Wildwing.png"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\images\\Mascots\\Youppi!.jpg",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Youppi!.jpg",
       "PackagePath": "staticwebassets\\images\\Mascots\\Youppi!.jpg"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\js\\site.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\js\\site.js",
       "PackagePath": "staticwebassets\\js\\site.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\LICENSE",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\LICENSE",
       "PackagePath": "staticwebassets\\lib\\bootstrap"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-grid.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-reboot.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap-utilities.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\css\\bootstrap.rtl.min.css.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.esm.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.js.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map",
       "PackagePath": "staticwebassets\\lib\\bootstrap\\dist\\js\\bootstrap.min.js.map"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation-unobtrusive\\jquery.validate.unobtrusive.min.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation\\LICENSE.md",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\LICENSE.md"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\additional-methods.min.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery-validation\\dist\\jquery.validate.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery-validation\\dist\\jquery.validate.min.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery\\LICENSE.txt",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery\\LICENSE.txt",
       "PackagePath": "staticwebassets\\lib\\jquery\\LICENSE.txt"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery\\dist\\jquery.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.js",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.js"
     },
     {
-      "Id": "C:\\Users\\Robza\\repos\\FinalProject\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\lib\\jquery\\dist\\jquery.min.map",
       "PackagePath": "staticwebassets\\lib\\jquery\\dist\\jquery.min.map"
     },
     {

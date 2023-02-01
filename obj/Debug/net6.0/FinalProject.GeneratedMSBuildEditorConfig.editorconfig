@@ -9,53 +9,53 @@ build_property.EnforceExtendedAnalyzerRules =
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = FinalProject
 build_property.RootNamespace = FinalProject
-build_property.ProjectDir = C:\Users\Robza\repos\FinalProject\
+build_property.ProjectDir = C:\Users\Robza\repos\FinalProjectV2\
 build_property.RazorLangVersion = 6.0
 build_property.SupportLocalizedComponentNames = 
 build_property.GenerateRazorMetadataSourceChecksumAttributes = 
-build_property.MSBuildProjectDirectory = C:\Users\Robza\repos\FinalProject
+build_property.MSBuildProjectDirectory = C:\Users\Robza\repos\FinalProjectV2
 build_property._RazorSourceGeneratorDebug = 
 
-[C:/Users/Robza/repos/FinalProject/Views/HockeyTeams/Index.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/HockeyTeams/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9ja2V5VGVhbXNcSW5kZXguY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/HockeyTeams/InsertHockeyTeam.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/HockeyTeams/InsertHockeyTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9ja2V5VGVhbXNcSW5zZXJ0SG9ja2V5VGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/HockeyTeams/UpdateTeam.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/HockeyTeams/UpdateTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9ja2V5VGVhbXNcVXBkYXRlVGVhbS5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/HockeyTeams/ViewHockeyTeam.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/HockeyTeams/ViewHockeyTeam.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9ja2V5VGVhbXNcVmlld0hvY2tleVRlYW0uY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/Home/Index.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/Home/Index.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxJbmRleC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/Home/Privacy.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/Home/Privacy.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcSG9tZVxQcml2YWN5LmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/Shared/Error.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/Shared/Error.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXEVycm9yLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/Shared/_ValidationScriptsPartial.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/Shared/_ValidationScriptsPartial.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9WYWxpZGF0aW9uU2NyaXB0c1BhcnRpYWwuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/_ViewImports.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/_ViewImports.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdJbXBvcnRzLmNzaHRtbA==
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/_ViewStart.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/_ViewStart.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcX1ZpZXdTdGFydC5jc2h0bWw=
 build_metadata.AdditionalFiles.CssScope = 
 
-[C:/Users/Robza/repos/FinalProject/Views/Shared/_Layout.cshtml]
+[C:/Users/Robza/repos/FinalProjectV2/Views/Shared/_Layout.cshtml]
 build_metadata.AdditionalFiles.TargetPath = Vmlld3NcU2hhcmVkXF9MYXlvdXQuY3NodG1s
 build_metadata.AdditionalFiles.CssScope = b-1iqdgs6srz

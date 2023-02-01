@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "fBP8RB2ZnvFziAOb45MeBaOCDaB/peVOeKExuZv5TAWCbxsNw5Q7XpXJOYulJdbRp9Nmi1ndYHWiEyYtlY1ryg==",
+  "dgSpecHash": "JL92/5kerUM4CS8O0uqqNMT8/0yOaQQ4l0opOAmQylxe76IisWR0oujIEwSiodYm+2//ZgiDKWdt1X8Zj7pcFQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Robza\\repos\\FinalProject\\FinalProject.csproj",
+  "projectFilePath": "C:\\Users\\Robza\\repos\\FinalProjectV2\\FinalProject.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Robza\\.nuget\\packages\\dapper\\2.0.123\\dapper.2.0.123.nupkg.sha512",
     "C:\\Users\\Robza\\.nuget\\packages\\google.protobuf\\3.21.9\\google.protobuf.3.21.9.nupkg.sha512",

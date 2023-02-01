@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Robza\\repos\\FinalProject\\FinalProject.csproj": {}
+    "C:\\Users\\Robza\\repos\\FinalProjectV2\\FinalProject.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Robza\\repos\\FinalProject\\FinalProject.csproj": {
+    "C:\\Users\\Robza\\repos\\FinalProjectV2\\FinalProject.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Robza\\repos\\FinalProject\\FinalProject.csproj",
+        "projectUniqueName": "C:\\Users\\Robza\\repos\\FinalProjectV2\\FinalProject.csproj",
         "projectName": "FinalProject",
-        "projectPath": "C:\\Users\\Robza\\repos\\FinalProject\\FinalProject.csproj",
+        "projectPath": "C:\\Users\\Robza\\repos\\FinalProjectV2\\FinalProject.csproj",
         "packagesPath": "C:\\Users\\Robza\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Robza\\repos\\FinalProject\\obj\\",
+        "outputPath": "C:\\Users\\Robza\\repos\\FinalProjectV2\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
