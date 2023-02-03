@@ -1,8 +1,10 @@
 ﻿@using FinalProject.Models
 @model HockeyTeam
-
+<head>
+    <link rel="stylesheet" href="~/css/Background.css" type="text/css" />
+</head>
 <h3>@Model.TeamName</h3>
-
+<body style="background-image:url(~/images/Background/TeamBackground.jpg)">
 <table class="table">
     <tr>
         <th>TeamName</th>
@@ -27,10 +29,11 @@
 </div>
 
 <div style="display: block">
-
+    <img src="~/images/Background/TeamBackground.jpg" />
     @using (Html.BeginForm("DeleteHockeyTeam", "HockeyTeam", "Post"))
     {
         <input type="hidden" asp-for="TeamID" value="@Model.TeamID" />
         <input type="submit" onclick="return confirm('Are you sure?')" value="Delete this team" />
     }
 </div>
+</body>

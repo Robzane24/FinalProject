@@ -5,12 +5,24 @@
       "PackagePath": "staticwebassets\\FinalProject.bundle.scp.css"
     },
     {
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\css\\Background.css",
+      "PackagePath": "staticwebassets\\css\\Background.css"
+    },
+    {
       "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\css\\site.css",
       "PackagePath": "staticwebassets\\css\\site.css"
     },
     {
       "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\favicon.ico",
       "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Background\\Background.jpg",
+      "PackagePath": "staticwebassets\\images\\Background\\Background.jpg"
+    },
+    {
+      "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Background\\TeamBackground.jpg",
+      "PackagePath": "staticwebassets\\images\\Background\\TeamBackground.jpg"
     },
     {
       "Id": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Al the Octopus.jpg",

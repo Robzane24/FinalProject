@@ -1,6 +1,6 @@
 {
   "Version": 1,
-  "Hash": "gM22q4avyEuG36y71KeuuW0alDqZ/2sx6yTumGTtmGs=",
+  "Hash": "yTVM+Xy8ZNloiXBH9QSqFXVrly7JRRvUFmlhbsvD0i0=",
   "Source": "FinalProject",
   "BasePath": "_content/FinalProject",
   "Mode": "Default",
@@ -51,6 +51,23 @@
       "OriginalItemSpec": "C:\\Users\\Robza\\repos\\FinalProjectV2\\obj\\Debug\\net6.0\\scopedcss\\projectbundle\\FinalProject.bundle.scp.css"
     },
     {
+      "Identity": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\css\\Background.css",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "css/Background.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\Background.css"
+    },
+    {
       "Identity": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\css\\site.css",
       "SourceId": "FinalProject",
       "SourceType": "Discovered",
@@ -83,6 +100,40 @@
       "CopyToOutputDirectory": "Never",
       "CopyToPublishDirectory": "PreserveNewest",
       "OriginalItemSpec": "wwwroot\\favicon.ico"
+    },
+    {
+      "Identity": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Background\\Background.jpg",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "images/Background/Background.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Background\\Background.jpg"
+    },
+    {
+      "Identity": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Background\\TeamBackground.jpg",
+      "SourceId": "FinalProject",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\",
+      "BasePath": "_content/FinalProject",
+      "RelativePath": "images/Background/TeamBackground.jpg",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\Background\\TeamBackground.jpg"
     },
     {
       "Identity": "C:\\Users\\Robza\\repos\\FinalProjectV2\\wwwroot\\images\\Mascots\\Al the Octopus.jpg",
